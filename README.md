@@ -2,7 +2,7 @@
 My name is Mahnoor Iftikhar, a first-year Computer Science major with a minor in Data Science. I’m passionate about tech and love using it to solve real-world problems. When I’m not coding, you’ll probably find me baking, organizing events, or working on projects that give back to the community. Whether it’s building websites or baking Cinnamon Rolls, I’m all in. Let’s connect and chat about tech, social impact, and everything in between!
 
 # 💫 About Me:
-✨ I’m passionate about building tech that helps people.<br>📚 I’m currently studying Computer Science with a minor in Data Science.<br>🎯 Goals: Landing an internship, and one day owning a nonprofit that empowers underserved communities through tech and education.<br>🎲 Fun fact: I used to run a home-based bakery because I love baking and I still dream of opening a cozy café someday!
+✨ I’m passionate about building tech that helps people.<br>📚 I’m currently studying Computer Science with a minor in Data Science.<br>🎯 Goals: Landing an internship at Big Tech, and one day owning a nonprofit that empowers underserved communities through tech and education.<br>🎲 Fun fact: I used to run a home-based bakery because I love baking and I still dream of opening a cozy café someday!
 
 
 ## 🌐 Socials:
