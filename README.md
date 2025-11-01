@@ -6,13 +6,6 @@
 
 ---
 
-# 💕 Hey there, I’m **Mahnoor Iftikhar!**
-
-🎓 *Computer Science & Economics Double Major* | *Data Science Minor*
-💡 Passionate about **building tech, research, and communities** that create measurable impact 💻✨
-
----
-
 ### 💫 My Journey 
 
 At **15**, I boarded my first-ever flight from Karachi, Pakistan 🇵🇰 to the U.S. on a **$60,000 fully funded U.S. Department of State Exchange Scholarship**, becoming the **first woman in my family** to study abroad.
