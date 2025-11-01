@@ -12,10 +12,6 @@ At **15**, I boarded my first-ever flight from Karachi, Pakistan to the U.S. on 
 
 That leap shaped everything, today, I use **technology and leadership** to create change that connects people, communities, and opportunities.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350" alt="Flood Fill Animation Example"/>
-</p>
-
 ---
 
 ### 💼 What I’ve Been Up To
@@ -35,6 +31,9 @@ Awarded **$2,000 fellowship**, **$1,000 grant**, and **two fully funded leadersh
 🎤 **Recognition & Leadership**
 Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited to be **convocation speaker** for PLU'29 class. Honored to represent women, global exchange as a youth ambassador, and technologists on leadership panels at conferences.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350" alt="Flood Fill Animation Example"/>
+</p>
 
 ---
 
