@@ -37,7 +37,7 @@ Today, I’m driven by purpose: using technology, leadership, and empathy to **s
 * 👩🏻‍🍳 I used to run a **home-based bakery** — baking is my creative outlet (yes, I make killer cinnamon rolls 🥐).
 * 📚 I’m an **avid reader** — especially enjoy memoirs, tech nonfiction, and poetry.
 * 💡 I **love hackathons** — rapid teamwork, innovation, and late-night debugging energy are my thing.
-* ☕ Dreaming of opening a **cozy café** someday where people can code, read, and connect.
+* ☕ Dreaming of opening a **cozy café** someday where people can code, buy flowers, buy cookies and connect.
 * 🌍 I believe in **building with intention** — whether that’s code, communities, or cupcakes.
 
 ---
