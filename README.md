@@ -31,8 +31,6 @@ Awarded **$2,000 fellowship**, **$1,000 grant**, and **two fully funded leadersh
 🎤 **Recognition & Leadership**
 Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited to be **convocation speaker** for PLU'29 class. Honored to represent women, global exchange as a youth ambassador, and technologists on leadership panels at conferences.
 
-<img src="https://media.giphy.com/media/l4FGsJ8jvPa5N9JfK/giphy.gif" width="250" alt="Floating hearts"/>
-
 ---
 
 ### 💪 Leadership & Impact
@@ -42,7 +40,9 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited t
 💬 **Women in Tech** – Member of **Rewriting the Code**, **Girls Who Code**, and **AnitaB.org**, connecting with women technologists worldwide in search of community & equal opportunity.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250" alt="Pixel coding girl"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Girl coding"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Coffee coding"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="150" alt="Sparkles"/>
 </p>
 
 ---
