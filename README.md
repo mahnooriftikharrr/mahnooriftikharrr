@@ -81,12 +81,6 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited t
 ---
 
 ### 📊 GitHub Stats 💖
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahnooriftikharrr&show_icons=true&theme=rose_pine&hide_border=false&title_color=FF69B4&icon_color=FF99CC" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnooriftikharrr&theme=rose_pine&hide_border=false&ring=FF69B4&fire=FF99CC" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnooriftikharrr&layout=compact&theme=rose_pine&title_color=FF69B4" height="165"/>
 </p>
