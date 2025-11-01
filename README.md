@@ -51,7 +51,7 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited *
 💬 **Tech Sisterhoods** – Member of **Rewriting the Code**, **Girls Who Code**, and **AnitaB.org**, connecting with women technologists worldwide.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRww5K2z5nYs/giphy.gif" width="250" alt="Cupcake Animation"/>
+  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250" alt="Pixel coding girl"/>
 </p>
 
 ---
