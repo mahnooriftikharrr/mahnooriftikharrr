@@ -12,6 +12,10 @@ At **15**, I boarded my first-ever flight from Karachi, Pakistan 🇵🇰 to the
 
 That leap shaped everything, today, I use **technology and leadership** to create change that connects people, communities, and opportunities.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT8qBepJQzUjD5fP0A/giphy.gif" width="350" alt="Coding Girl Animation"/>
+</p>
+
 ---
 
 ### 💼 What I’ve Been Up To
@@ -30,8 +34,10 @@ Awarded **$2,000 fellowship**, **$1,000 grant**, and **two fully funded leadersh
 
 🎤 **Recognition & Leadership**
 Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited to be **convocation speaker** for PLU'29 class. Honored to represent women, global exchange as a youth ambassador, and technologists on leadership panels at conferences.
-![coffee-19613_256](https://github.com/user-attachments/assets/4c48b6b4-8605-481b-a035-14d6f1bc8959)
 
+<p align="center">
+![coffee-19613_256](https://github.com/user-attachments/assets/4c48b6b4-8605-481b-a035-14d6f1bc8959)
+</p>
 
 
 ---
@@ -98,4 +104,3 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited t
 ### 🌸 My Philosophy
 
 > “Empowered women don’t just break ceilings — they design the architecture of what comes next.” 💕
-
