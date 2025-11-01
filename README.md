@@ -39,7 +39,7 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited t
 🌍 **Community Advocate** – Led **STEM bootcamps for girls** in underserved Karachi schools and launched **Girls Who Code College Loop** at PLU.
 💬 **Women in Tech** – Member of **Rewriting the Code**, **Girls Who Code**, and **AnitaB.org**, connecting with women technologists worldwide in search of community & equal opportunity.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/621c0753-9f04-4532-b286-a8751ab80955" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/621c0753-9f04-4532-b286-a8751ab80955" />
 
 ---
 
