@@ -6,11 +6,14 @@
 
 ---
 
-### 💫 My Journey 
+### 💫 My Journey  
 
-At **15**, I boarded my first-ever flight from Karachi, Pakistan to the U.S. on a **$60,000 fully funded U.S. Department of State Exchange Scholarship**, becoming the **first woman in my family** to study or travel abroad.
+At **15**, I boarded my first-ever flight from Karachi, Pakistan 🇵🇰 to the U.S. on a **$60,000 fully funded U.S. Department of State Exchange Scholarship**, becoming the **first woman in my family** to study or travel abroad.  
 
-That leap shaped everything, today, I use **technology and leadership** to create change that connects people, communities, and opportunities.
+That leap shaped everything — it showed me the power of access and how opportunity can change not just one life, but generations.  
+
+Today, I use **technology, leadership, and community-building** to **empower women and open doors** for those often left out of the conversation. From launching coding clubs in government girls’ schools to founding **women-in-tech communities** on my campus, I’m driven by one goal: to make opportunity accessible to every girl with a dream. 🌸
+
 
 ---
 
