@@ -1,59 +1,117 @@
-# 👋 Hey there, I'm **Mahnoor Iftikhar!**
+<!-- 🌸 Typing Animation Header -->
 
-🎓 *Computer Science & Economics Double Major* | *Data Science Minor*
-💡 Passionate about building tools, research, and communities that create measurable impact.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=3000&pause=800&color=F87CB5&center=true&vCenter=true&width=700&lines=Hi!+I'm+Mahnoor+Iftikhar+💖;Computer+Science+%26+Economics+Major;Data+Science+Minor;Tech+%7C+Leadership+%7C+Women+Empowerment+🌸" alt="Typing Animation" />
+</p>
 
 ---
 
-### ✨ My Story
+# 💕 Hey there, I’m **Mahnoor Iftikhar!**
 
-At **15**, I boarded my first-ever flight from Karachi, Pakistan 🇵🇰 to the U.S. on a **$60,000 fully funded U.S. Department of State exchange scholarship** — becoming the **first woman in my family** to study abroad. That flight started everything. 👩🏻‍💻✈️
+🎓 *Computer Science & Economics Double Major* | *Data Science Minor*
+💡 Passionate about building technology, research, and communities that create measurable social impact — especially for women in STEM ✨
 
-Today, I’m driven by purpose: using technology, leadership, and empathy to **solve real-world problems** and **build opportunities for others**.
+---
+
+### 🌸 My Story — From Karachi to Code
+
+At **15**, I boarded my first-ever flight from Karachi, Pakistan 🇵🇰 to the U.S. on a **$60,000 fully funded U.S. Department of State Exchange Scholarship**, becoming the **first woman in my family** to study abroad.
+
+That experience shaped how I see technology — as a bridge for opportunity, connection, and change. I’m now focused on **building inclusive tools, leading impact-driven projects, and creating pathways for women in tech**. 👩🏻‍💻💫
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="sparkles animation"/>
+</p>
 
 ---
 
 ### 💼 Highlights
 
-* 🤖 **AI/ML Research Assistant (Proteinext)** – Improved protein-function prediction models by integrating **BigBird transformers**, **ESM-3 embeddings**, and **PyTorch**.
-* 💡 **HackMIT ’25 Hacker** – Selected (acceptance <4%) and built **TwoStep**, an adaptive music therapy platform for gait rehabilitation in Parkinson’s patients.
-* 💗 **Founder & President, NMDP Chapter @ PLU** – Established PLU’s first *National Marrow Donor Program* chapter; led **35+ donor drives**, adding **200+ registry members** and reaching **500+ students**.
-* 🌉 **BRAID Fellow (Interfaith America)** – Awarded a **$2K scholarship**, **$1K grant**, and **2 fully funded leadership conferences** in Salt Lake City & Chicago. Designed bridge-building events, including PLU’s first-ever campus Iftar.
-* 🎤 Invited **conference speaker, convocation speaker, and Emerging Leader Award** recipient — honored to represent voices of global, interfaith, and women-in-tech communities.
+* 🤖 **AI/ML Research Assistant @ Proteinext** — Contributed to improving **protein-function prediction models** by integrating **BigBird transformers**, **ESM-3 embeddings**, and **PyTorch**, combining biological data with machine learning for more accurate outcomes.
+* 💡 **HackMIT 2025 Hacker** — Selected for my first major hackathon (<4% acceptance rate) and built **TwoStep**, an adaptive music therapy platform designed to support **gait rehabilitation for Parkinson’s patients** through rhythmic auditory stimulation.
+* 💗 **Founder & President, National Marrow Donor Program (NMDP) Chapter @ PLU** — Established PLU’s first NMDP chapter, recruited 16+ members, organized **35+ donor drives**, and added **200+ new registry members**, connecting patients with life-saving matches.
+* 🌈 **BRAID Fellow @ Interfaith America** — Awarded a **$2,000 fellowship**, **$1,000 campus grant**, and **two fully funded leadership conferences** (Salt Lake City & Chicago). Designed bridgebuilding events like PLU’s first **campus Iftar** and interfaith gathering tables.
+* 🎤 **Leadership & Recognition** — Selected as **convocation speaker**, recipient of the **Emerging Leader Award** and **Rieke Scholarship**, and invited to speak on **national panels** about youth leadership, inclusion, and technology.
 
 ---
 
-### 🧭 Leadership & Impact
+### 💪 Leadership & Impact
 
-* 👩‍💻 **Computer Science Tutor @ Knack** – Support undergraduates learning Java through personalized lessons and problem-solving strategies.
-* 💪 **Club Founder** – Built sustainable student organizations from the ground up, managing members, partnerships, and large-scale donor recruitment events.
-* 💬 **Community Builder** – Led **STEM bootcamps for girls** in underserved schools, **interfaith gatherings**, and **campus inclusion projects**.
-* 💻 **Tech Member** – Active in **Rewriting the Code**, **Girls Who Code**, and **AnitaB.org** communities.
+* 👩‍💻 **Computer Science Tutor @ Knack** — Provide one-on-one tutoring for undergraduates in **Java (CS144)**, helping students strengthen programming logic, debugging, and confidence in applying CS concepts.
+* 💬 **Community Builder** — Led **STEM bootcamps for girls** in underserved schools in Karachi, launched **interfaith gatherings** at PLU, and organized initiatives to make tech and education more inclusive.
+* 💻 **Tech Communities** — Active member of **Rewriting the Code**, **Girls Who Code**, and **AnitaB.org**, connecting with women technologists globally to share experiences and grow together.
 
 ---
 
 ### 🍰 Fun Facts
 
-* 👩🏻‍🍳 I used to run a **home-based bakery** — baking is my creative outlet (yes, I make killer cinnamon rolls 🥐).
-* 📚 I’m an **avid reader** — especially enjoy memoirs, tech nonfiction, and poetry.
-* 💡 I **love hackathons** — rapid teamwork, innovation, and late-night debugging energy are my thing.
-* ☕ Dreaming of opening a **cozy café** someday where people can code, buy flowers, buy cookies and connect.
-* 🌍 I believe in **building with intention** — whether that’s code, communities, or cupcakes.
+* 👩🏻‍🍳 I used to run a **home-based bakery** — baking is still my favorite way to unwind (especially my cinnamon rolls 🥐).
+* 📚 I’m an **avid reader** — from tech innovation and memoirs to poetry that slows the world down.
+* 💡 I love **hackathons** — they combine creativity, teamwork, and problem-solving (plus snacks and chaos).
+* ☕ I dream of opening a **cozy café** one day where people can code, read, and share stories.
+* 🌍 I believe in **building with intention** — whether that’s a product, a community, or a plate of cookies.
 
 ---
 
 ### 🧠 Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge\&logo=javascript\&logoColor=white)
+![R](https://img.shields.io/badge/R-FF9AC2?style=for-the-badge\&logo=r\&logoColor=white)
+![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge\&logo=react\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-FF99CC?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-FF77A9?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F7A8B8?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F4A3C1?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-F78FB3?style=for-the-badge\&logo=css3\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FB8BB9?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF99CC?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge\&logo=docker\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FD9BB3?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-F5A3C7?style=for-the-badge\&logo=canva\&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me
+### 🌟 Featured Project
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahnooriftikharrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahnooriftikharrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahnooriftikharrr@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnooriftikharrr&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🗺️ **[GeoNavigator – Points of Interest Finder](https://github.com/mahnooriftikharrr/GeoNavigator-Java)**
+A Java-based console application that finds nearby points of interest using **geolocation**, **Haversine distance**, and **OOP principles**.
+Built for **CS 270**, this project demonstrates data parsing, search algorithms, and clean modular design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahnooriftikharrr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🌷 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mahnooriftikharrr"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahnooriftikharrr@gmail.com"><img src="https://img.shields.io/badge/Email-FF99CC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/mahnooriftikharrr"><img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats 💖
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahnooriftikharrr&show_icons=true&theme=rose_pine&hide_border=false&title_color=FF69B4&icon_color=FF99CC" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnooriftikharrr&theme=rose_pine&hide_border=false&ring=FF69B4&fire=FF99CC" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnooriftikharrr&layout=compact&theme=rose_pine&title_color=FF69B4" height="165"/>
+</p>
+
+---
+
+### 💫 My Philosophy
+
+> “Empowered women empower the world — one project, one community, and one line of code at a time.” 💕
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="women empowerment animation"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mahnooriftikharrr&label=💗+Profile+Visits&color=FF69B4&icon=5&pretty=true" />
+</p>
