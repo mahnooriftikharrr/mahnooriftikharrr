@@ -9,7 +9,7 @@
 # 💕 Hey there, I’m **Mahnoor Iftikhar!**
 
 🎓 *Computer Science & Economics Double Major* | *Data Science Minor*
-💡 Passionate about **building tech, research, and communities** that create measurable impact — especially for **women in STEM** 💻✨
+💡 Passionate about **building tech, research, and communities** that create measurable impact 💻✨
 
 ---
 
@@ -17,7 +17,7 @@
 
 At **15**, I boarded my first-ever flight from Karachi, Pakistan 🇵🇰 to the U.S. on a **$60,000 fully funded U.S. Department of State Exchange Scholarship**, becoming the **first woman in my family** to study abroad.
 
-That leap shaped everything — today, I use **technology and leadership** to create change that connects people, communities, and opportunities.
+That leap shaped everything, today, I use **technology and leadership** to create change that connects people, communities, and opportunities.
 
 <p align="center">
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="300" alt="Laptop coding"/>
@@ -61,7 +61,7 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited *
 👩🏻‍🍳 I ran a **home-based bakery** — cinnamon rolls are my debugging fuel 🧁
 📚 Avid reader — from **tech innovation** to **Pakistani literature** and **memoirs**
 🚀 I love **hackathons** — the creative chaos, teamwork, and “we have 3 hours left” energy
-☕ Dream of opening a **cozy café** for coders, artists, and dreamers
+☕ Dream of opening a **cozy café** where you can get flowers, cookies, and books
 💖 I believe every project should combine **empathy + logic + imagination**
 
 <p align="center">
@@ -70,7 +70,7 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited *
 
 ---
 
-### 🧠 Tech Stack (Pretty in Pink 🌸)
+### 🧠 Tech Stack 
 
 ![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge\&logo=python\&logoColor=white)
