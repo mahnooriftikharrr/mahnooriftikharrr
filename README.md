@@ -20,7 +20,7 @@ At **15**, I boarded my first-ever flight from Karachi, Pakistan 🇵🇰 to the
 That leap shaped everything, today, I use **technology and leadership** to create change that connects people, communities, and opportunities.
 
 <p align="center">
- <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="Night coding"/>
+<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="300" alt="Typing fast"/>
 </p>
 
 ---
