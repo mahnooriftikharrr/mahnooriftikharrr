@@ -40,7 +40,7 @@ Started PLU’s first *National Marrow Donor Program* chapter; organized **35+ d
 Awarded **$2,000 fellowship**, **$1,000 grant**, and **two fully funded leadership conferences** (Salt Lake City & Chicago). Designed bridge-building projects and hosted PLU’s first **campus Iftar**.
 
 🎤 **Recognition & Leadership**
-Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited **convocation speaker**. Honored to represent women, global exchange alumni, and technologists on leadership panels.
+Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited **convocation speaker**. Honored to represent women, global exchange alumni, and technologists on leadership panels at conferences.
 
 ---
 
@@ -115,6 +115,3 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited *
 
 > “Empowered women don’t just break ceilings — they design the architecture of what comes next.” 💕
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mahnooriftikharrr&label=💗+Profile+Visits&color=FF69B4&icon=5&pretty=true" />
-</p>
