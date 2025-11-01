@@ -16,7 +16,7 @@ That leap shaped everything, today, I use **technology and leadership** to creat
 
 ### 💼 What I’ve Been Up To
 
-🌸 **AI/ML Research Assistant @ Proteinext**
+🌸 **AI/ML Research Assistant**
 Improving **protein-function prediction models** using **BigBird transformers**, **ESM-3 embeddings**, and **PyTorch**.
 
 💻 **HackMIT 2025 Hacker**
@@ -26,10 +26,10 @@ Selected (<4% acceptance rate) and built **TwoStep**, an adaptive music therapy 
 Started PLU’s first *National Marrow Donor Program* chapter; organized **35+ donor drives**, added **200+ new registry members**, and built partnerships with campus organizations.
 
 🌷 **BRAID Fellow @ Interfaith America**
-Awarded **$2,000 fellowship**, **$1,000 grant**, and **two fully funded leadership conferences** (Salt Lake City & Chicago). Designed bridge-building projects and hosted PLU’s first **campus Iftar**.
+Awarded **$2,000 fellowship**, **$1,000 grant**, and **two fully funded leadership conferences** (Salt Lake City & Chicago). Designed bridge-building projects to bring together different communities and hosted PLU’s first **campus Iftar**.
 
 🎤 **Recognition & Leadership**
-Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited **convocation speaker**. Honored to represent women, global exchange alumni, and technologists on leadership panels at conferences.
+Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited to be **convocation speaker** for PLU'29 class. Honored to represent women, global exchange as a youth ambassador, and technologists on leadership panels at conferences.
 
 <p align="center">
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Retro computer coding"/>
@@ -39,9 +39,9 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited *
 
 ### 💪 Leadership & Impact
 
-👩‍💻 **Computer Science Tutor @ Knack** – Mentor undergraduates in **Java**, helping strengthen logic, debugging, and problem-solving.
-🌍 **Community Advocate** – Led **STEM bootcamps for girls** in underserved Karachi schools and launched **interfaith projects** at PLU.
-💬 **Tech Sisterhoods** – Member of **Rewriting the Code**, **Girls Who Code**, and **AnitaB.org**, connecting with women technologists worldwide.
+👩‍💻 **Computer Science Tutor @ Knack** – Mentor & tutor undergraduate students in **Java programming**, helping strengthen logic, debugging, and problem-solving.
+🌍 **Community Advocate** – Led **STEM bootcamps for girls** in underserved Karachi schools and launched **Girls Who Code College Loop** at PLU.
+💬 **Women in Tech** – Member of **Rewriting the Code**, **Girls Who Code**, and **AnitaB.org**, connecting with women technologists worldwide in search of community & equal opportunity.
 
 <p align="center">
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250" alt="Pixel coding girl"/>
@@ -52,7 +52,7 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited *
 ### 🍰 Fun Facts About Me
 
 👩🏻‍🍳 I ran a **home-based bakery** — cinnamon rolls are my debugging fuel 🧁
-📚 Avid reader — from **tech innovation** to **Pakistani literature** and **memoirs**
+📚 Avid reader — from **tech innovation** to **Pakistani literature** and **fantasy books**
 🚀 I love **hackathons** — the creative chaos, teamwork, and “we have 3 hours left” energy
 ☕ Dream of opening a **cozy café** where you can get flowers, cookies, and books
 💖 I believe every project should combine **empathy + logic + imagination**
