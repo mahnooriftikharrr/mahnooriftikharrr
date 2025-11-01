@@ -57,10 +57,6 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited t
 ☕ Dream of opening a **cozy café** where you can get flowers, cookies, and books
 💖 I believe every project should combine **empathy + logic + imagination**
 
-<p align="center">
- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Matrix code animation"/>
-</p>
-
 ---
 
 ### 🧠 Tech Stack 
