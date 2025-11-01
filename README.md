@@ -116,9 +116,5 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited *
 > “Empowered women don’t just break ceilings — they design the architecture of what comes next.” 💕
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="200" alt="Coding Heart Animation"/>
-</p>
-
-<p align="center">
   <img src="https://visitcount.itsvg.in/api?id=mahnooriftikharrr&label=💗+Profile+Visits&color=FF69B4&icon=5&pretty=true" />
 </p>
