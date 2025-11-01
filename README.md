@@ -31,7 +31,7 @@ Awarded **$2,000 fellowship**, **$1,000 grant**, and **two fully funded leadersh
 🎤 **Recognition & Leadership**
 Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited to be **convocation speaker** for PLU'29 class. Honored to represent women, global exchange as a youth ambassador, and technologists on leadership panels at conferences.
 
-<img width="512" height="346" alt="image" src="https://github.com/user-attachments/assets/7ec431bb-276e-414c-9221-36356a65d154" />
+[<img width="512" height="346" alt="image" src="https://github.com/user-attachments/assets/7ec431bb-276e-414c-9221-36356a65d154" />](https://cdn.pixabay.com/animation/2023/03/08/02/08/02-08-24-833_512.gif)
 
 
 ---
