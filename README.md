@@ -26,13 +26,13 @@ Improving **protein-function prediction models** using **BigBird transformers**,
 Selected (<4% acceptance rate) and built **TwoStep**, an adaptive music therapy platform supporting gait rehabilitation for Parkinson’s patients.
 
 💗 **Founder & President, NMDP Chapter @ PLU**
-Started PLU’s first *National Marrow Donor Program* chapter; organized **35+ donor drives**, added **200+ new registry members**, and built partnerships with campus organizations.
+Started PLU’s first *National Marrow Donor Program* chapter; Set chapter strategy, secured a faculty advisor, led **9 member exec board**, and securing **$1000+ in funding** and adding **200+ new registry members** and reaching **500+ students**.
 
 🌷 **BRAID Fellow @ Interfaith America**
-Awarded **$2,000 fellowship**, **$1,000 grant**, and **two fully funded leadership conferences** (Salt Lake City & Chicago). Designed bridge-building projects to bring together different communities and hosted PLU’s first **campus Iftar**.
+I earned **$3K+ in grants and scholarships** + 2 **Fully Funded Leadership Conference's** in Salt Lake City & Chicago to design **bridgebuilding programs** that foster inclusion, dialogue, and belonging across campus, while receiving intensive **leadership and project-management training**.
 
 🎤 **Recognition & Leadership**
-Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, and invited to be **convocation speaker** for PLU'29 class. Honored to represent women, global exchange as a youth ambassador, and technologists on leadership panels at conferences.
+Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, flown out to **5 fully funded leadership conferences** and received invitations to **speak on national panels** and deliver my university’s **convocation address**. Honored to represent women, global exchange as a youth ambassador, and technologists.
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350" alt="Flood Fill Animation Example"/>
