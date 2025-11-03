@@ -44,7 +44,7 @@ Recipient of the **Emerging Leader Award**, **Rieke Scholarship**, flown out to 
 
 👩‍💻 **Computer Science Tutor @ Knack** – Mentor & tutor undergraduate students in **Java programming**, helping strengthen logic, debugging, and problem-solving.
 🌍 **Community Advocate** – Led **STEM bootcamps for girls** in underserved Karachi schools and launched **Girls Who Code College Loop** at PLU.
-💬 **Women in Tech** – Member of **Rewriting the Code**, **Girls Who Code**, and **AnitaB.org**, connecting with women technologists worldwide in search of community & equal opportunity.
+💬 **Women in Tech** – Member of **Rewriting the Code**, **Girls Who Code**, **CodePath** and **AnitaB.org**, connecting with women technologists worldwide in search of community & equal opportunity.
 
 ---
 
