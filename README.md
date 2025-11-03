@@ -8,7 +8,7 @@
 
 ### 💫 My Journey  
 
-At **15**, I boarded my first-ever flight from Karachi, Pakistan 🇵🇰 to the U.S. on a **$60,000 fully funded U.S. Department of State Exchange Scholarship**, becoming the **first woman in my family** to study or travel abroad.  
+At **15**, I boarded my first-ever flight from Karachi, Pakistan to the U.S. on a **$60,000 fully funded U.S. Department of State Exchange Scholarship**, becoming the **first woman in my family** to study or travel abroad.  
 
 That leap shaped everything, it showed me the power of access and how opportunity can change not just one life, but generations.  
 
